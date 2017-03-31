@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "makan nasi",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "makan mie",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "coding",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "title": "tidur",
+      "completed": false
+    },
+    {
+      "id": "5",
+      "title": "testing",
+      "completed": false
+    }
+  ]
+}
